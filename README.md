@@ -1,11 +1,22 @@
-[![Social banner for jh3y](https://github.com/jh3y/jh3y/raw/master/assets/header-banner--optimized.svg)]
-<h1 align='center'> Hi! :wave:</h1>
-<p align='center'>
-I'm Jhey.
-</p>
-<p align='center'>For enquiries, reach out @ jhey@jhey.dev or over on <a href="https://twitter.com/jh3yy">Twitter</a>.</p>
+<div align="center">
+<img src="https://github.com/raghavk16/raghavk16/blob/master/octo.gif" alt="GitHub Logo" width="150" height="150" />
+</div>
 
-<h1 align='center'><i>Stay awesome!</i></h1>
+# Welcome To My GitHub Profile !
+
+<br/>
+<div align="center">
+<img src="https://github.com/raghavk16/raghavk16/blob/master/screen.gif" alt="Raghav Khullar Typer" />
+</div>
+<br/>
+
+
+<div align="center">
+<img src="https://github.com/raghavk16/raghavk16/blob/master/giphy.webp" alt="eatsleepcode" width="250" height="250" />
+</div>
+
+
+
 <div align='center'>
   <p align='center'>
     <a href="https://linkedin.com/in/kartikeya-bhatnagar-61533b252"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
