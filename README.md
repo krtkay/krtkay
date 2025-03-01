@@ -2,20 +2,7 @@
 <img src="https://github.com/raghavk16/raghavk16/blob/master/octo.gif" alt="GitHub Logo" width="150" height="150" />
 </div>
 
-# Welcome To My GitHub Profile !
-
-<br/>
-<div align="center">
-<img src="https://github.com/raghavk16/raghavk16/blob/master/screen.gif" alt="Raghav Khullar Typer" />
-</div>
-<br/>
-
-
-<div align="center">
-<img src="https://github.com/raghavk16/raghavk16/blob/master/giphy.webp" alt="eatsleepcode" width="250" height="250" />
-</div>
-
-
+# Hey there I am Kartikeya Bhatnagar. Welcome To My GitHub Profile !
 
 <div align='center'>
   <p align='center'>
@@ -23,6 +10,12 @@
     <a href="bhanagarkartikeya@gmail.com"><img height="30" src="https://th.bing.com/th/id/OIP.9sT4UWsRfFiy6vPydv3_-QHaHO?pid=ImgDet&rs=1"></a>&nbsp;&nbsp;
   </p>
 </div>
+
+
+<div align="center">
+<img src="https://github.com/raghavk16/raghavk16/blob/master/coderman.gif" alt="Coder" width="400" height="250" />
+</div>
+<br/>
 
 ### About me
 
@@ -46,7 +39,7 @@
 
 <strong>Top Repositories</strong>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HwangTaehyun&repo=react-native-lottie-splash-screen&theme=swift)](https://github.com/krtkay/DEEP-LEARNING-MODELS-20-INDIAN-STOCKS-DATA-LSTM-CNN-GRU-RNN)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=krtkay&repo=DEEP-LEARNING-MODELS-20-INDIAN-STOCKS-DATA-LSTM-CNN-GRU-RNN&theme=swift)](https://github.com/krtkay/DEEP-LEARNING-MODELS-20-INDIAN-STOCKS-DATA-LSTM-CNN-GRU-RNN)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HwangTaehyun&repo=github-contributor-stats&theme=swift)](https://github.com/krtkay/HUGGING-FACE-GEMINI-OPENCV-SKETCH-TO-IMAGE-GENERATION)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=krtkay&repo=HUGGING-FACE-GEMINI-OPENCV-SKETCH-TO-IMAGE-GENERATION&theme=swift)](https://github.com/krtkay/HUGGING-FACE-GEMINI-OPENCV-SKETCH-TO-IMAGE-GENERATION)
 
