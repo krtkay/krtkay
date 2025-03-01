@@ -1,6 +1,10 @@
-<p align="center">
-  <img src="https://i.imgur.com/P4FGMoS.png" width=400 style="display: block; margin: 0 auto"/>
+[![Social banner for jh3y](https://github.com/jh3y/jh3y/raw/master/assets/header-banner--optimized.svg)](https://jhey.dev)
+<h1 align='center'> Hi! :wave:</h1>
+<p align='center'>
+I'm Kartikeya.
 </p>
+
+<h1 align='center'><i>Stay awesome!</i></h1>
 
 <div align='center'>
   <p align='center'>
